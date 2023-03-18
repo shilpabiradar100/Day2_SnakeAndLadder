@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f42dcea-01e2-4420-bf2b-8ac4573d75dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnakeProgram/SnakeLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnakeProgram/SnakeLadderUC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnakeProgram/StartPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnakeProgram/UC4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnakeProgram/UC5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnakeProgram/UC6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Mof2vpPjn2hDIJKOBLoHNxkCwp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Collection">
+    <configuration name="Collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection" />
+      <module name="LineComparision" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineComparision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.LineComparision.LineComparision" />
+      <module name="LineComparision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.LineComparision.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OverloadMainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.Bridgelabz.Oops.polymorphism.Overloading.OverloadMainMethod" />
+      <module name="LineComparision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.Bridgelabz.Oops.polymorphism.Overloading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StartPosition" />
+      <module name="LineComparision" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuperRealUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.Bridgelabz.BasicCoreJava.SuperKeyword.SuperRealUse" />
+      <module name="LineComparision" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.Bridgelabz.BasicCoreJava.SuperKeyword.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Collection" />
+        <item itemvalue="Application.LineComparision" />
+        <item itemvalue="Application.SuperRealUse" />
+        <item itemvalue="Application.StartPosition" />
+        <item itemvalue="Application.OverloadMainMethod" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f42dcea-01e2-4420-bf2b-8ac4573d75dc" name="Changes" comment="" />
+      <created>1678438657256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678438657256</updated>
+    </task>
+    <servers />
+  </component>
+</project>
